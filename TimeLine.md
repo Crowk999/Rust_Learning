@@ -1,3 +1,6 @@
+/*## USING THIS TIMELINE SYSTEM FOR FIRST TIME ## */
+
+
 The whole time line of my learning of Rust is given as bellow:-
 
 Started TimeLine:-
@@ -7,7 +10,7 @@ Starting Nepali_Date: 2083/02/27
 Note:- Hope so i will complete it in time and I have my grade 12 classes also  nowdays too.
 
 
-Prediction of Ending Project  TimeLine:-
+Prediction of Ending Project TimeLine:-
 Ending Date: June ??,2026
 Ending Day: ????day
 Ending Nepali_Date: 2083/03/??
