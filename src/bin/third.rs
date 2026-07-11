@@ -1,3 +1,4 @@
+
 fn main(){
     let mut x:i8=2;
     println!("{}",x);
@@ -12,4 +13,15 @@ fn main(){
         println!("The while loop");
         x += 1;
     }
+     struct User{
+        name:String,
+        age:u8,
+    }   
+
+    let user = User{
+        name:"Adhrit".to_string(),
+        age:16,
+    };
+
+    println!("The Struct Name:{} and age:{}",user.name,user.age);
 }
