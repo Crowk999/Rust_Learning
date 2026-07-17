@@ -1,6 +1,7 @@
 fn main(){
     let a:i32=47;
     fibo(a);
+    
 }
 
 fn fibo(a:i32){
