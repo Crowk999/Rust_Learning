@@ -4,7 +4,7 @@ fn main(){
     let _x:i8=11;
 
     println!("{}",pair.0); // Accessing first element
-    println!("{}",pair.1); // Accessing second element
+    println!("{}o",pair.1); // Accessing second element
 
      // Destructuring a pair.
     let (letter, _number) = pair;
