@@ -13,6 +13,4 @@ fn main(){
     for x in v{
     println!("v={}",x);
     }
-    
-
 }
